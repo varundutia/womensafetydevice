@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Women Safety App</string>
+    <string name="continueToApp">Continue</string>
+    <string name="press_on_the_contact_you_want_to_delete">press to delete</string>
+    <string name="back">back</string>
+    <string name="monitoring">Monitoring........</string>
+</resources>
